@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\ch3\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\ch3\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ex3_1.c
+ex3_1.c(18): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_2.c
+ex3_2.c(17): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_3.c
+ex3_3.c(23): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_4.c
+ex3_4.c(36): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_5.c
+ex3_5.c(16): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_6.c
+ex3_6.c(20): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_7.c
+ex3_7.c(16): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_8.c
+ex3_8.c(29): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw1.c
+hw1.c(18): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw2.c
+hw2.c(23): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw3.c
+hw3.c(32): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw4.c
+hw4.c(19): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw5.c
+hw5.c(16): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw6.c
+hw6.c(18): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  main.c
+main.c(96): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?

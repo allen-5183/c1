@@ -1,0 +1,55 @@
+﻿  ex1.c
+ex1.c(30): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex2.c
+ex2.c(33): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex2_1.c
+ex2_1.c(20): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex2_2.c
+ex2_2.c(20): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex3_1.c
+ex3_1.c(40): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4_1.c
+ex4_1.c(19): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4_2.c
+ex4_2.c(20): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex5_1.c
+ex5_1.c(23): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex5_2.c
+ex5_2.c(24): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex6_1.c
+ex6_1.c(25): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_1a.c
+function_1a.c(21): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_2a.c
+function_2a.c(26): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_2b.c
+function_2b.c(33): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_3a.c
+function_3a.c(25): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_3b.c
+function_3b.c(22): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_3c.c
+function_3c.c(40): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_4a.c
+function_4a.c(20): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_4b.c
+function_4b.c(42): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_4c.c
+function_4c.c(20): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_5a.c
+function_5a.c(21): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  正在編譯...
+  function_5b.c
+function_5b.c(22): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_6a.c
+function_6a.c(26): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_6b.c
+function_6b.c(26): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_6c.c
+function_6c.c(19): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_6d_1.c
+function_6d_1.c(26): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  function_6d_2.c
+function_6d_2.c(6): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  main.c
+main.c(125): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?

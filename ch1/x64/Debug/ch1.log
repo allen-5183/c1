@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+d:\workspace\c&c++\vs2017\c\ch1\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\ch1\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  main.c
+  hw4.c
+  hw3.c
+  hw2.c
+  hw1.c
+  ex1_7.c
+  ex1_6.c
+  ex1_5.c
+  ex1_4.c
+  ex1_3.c
+d:\workspace\c&c++\vs2017\c\ch1\ex1_3.c(6): warning C4101: 'num': 未參考的區域變數
+  ex1_2.c
+  ex1_1.c
+  正在產生程式碼...
+  ch1.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch1.exe
+  ch1.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch1.pdb (Partial PDB)

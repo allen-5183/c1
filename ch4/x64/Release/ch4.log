@@ -1,0 +1,26 @@
+﻿  binary_search.c
+binary_search.c(52): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  bubble_sort_a.c
+bubble_sort_a.c(52): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  bubble_sort_b.c
+bubble_sort_b.c(46): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4_1.c
+ex4_1.c(21): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4_2.c
+ex4_2.c(16): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4_3.c
+ex4_3.c(21): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  ex4_4.c
+ex4_4.c(31): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw1.c
+hw1.c(21): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw2.c
+hw2.c(23): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw3.c
+hw3.c(21): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw4.c
+hw4.c(29): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  hw5.c
+hw5.c(22): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?
+  main.c
+main.c(74): fatal error C1010: 尋找先行編譯標頭檔指示詞時碰到未預期的檔案結尾。您的原始檔中是否忘了加上 '#include "stdafx.h"'?

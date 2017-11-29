@@ -1,0 +1,14 @@
+﻿  ex9_2d.c
+  main.c
+main.c(47): warning C4013: 'ex9_1d_exam1' 未定義; 假設 extern 傳回整數
+main.c(50): warning C4013: 'ex9_2a' 未定義; 假設 extern 傳回整數
+main.c(53): warning C4013: 'ex9_2b' 未定義; 假設 extern 傳回整數
+main.c(56): warning C4013: 'ex9_2c' 未定義; 假設 extern 傳回整數
+main.c(59): warning C4013: 'ex9_2d' 未定義; 假設 extern 傳回整數
+  正在產生程式碼
+  2 of 17 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  ch9.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Release\ch9.exe
+  ch9.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Release\ch9.pdb (Full PDB)

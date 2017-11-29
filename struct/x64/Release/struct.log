@@ -1,0 +1,27 @@
+﻿  ex_1_1.c
+  ex_1a.c
+ex_1a.c(16): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '::size_t'
+  ex_1a.c(16): note: 請考慮在格式字串中使用 '%zd'
+ex_1a.c(17): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '::size_t'
+  ex_1a.c(17): note: 請考慮在格式字串中使用 '%zd'
+  ex_1b.c
+  ex_1c.c
+  ex_1_2.c
+  ex_2a.c
+  ex_2b.c
+ex_2b.c(18): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_3b.c
+  main.c
+main.c(39): warning C4013: 'ex_1c' 未定義; 假設 extern 傳回整數
+main.c(51): warning C4013: 'ex_2b' 未定義; 假設 extern 傳回整數
+main.c(54): warning C4013: 'test' 未定義; 假設 extern 傳回整數
+main.c(57): warning C4013: 'ex_3b' 未定義; 假設 extern 傳回整數
+  test.c
+test.c(18): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  正在產生程式碼
+  16 of 20 functions (80.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  struct.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Release\struct.exe
+  struct.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Release\struct.pdb (Full PDB)

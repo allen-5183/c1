@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+d:\workspace\c&c++\vs2017\c\ch3\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\ch3\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\ch3\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  main.c
+  hw6.c
+  hw5.c
+  hw4.c
+  hw3.c
+  hw2.c
+  hw1.c
+  ex3_8.c
+  ex3_7.c
+  ex3_6.c
+  ex3_5.c
+  ex3_4.c
+  ex3_3.c
+  ex3_2.c
+  ex3_1.c
+  正在產生程式碼...
+  ch3.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch3.exe
+  ch3.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch3.pdb (Partial PDB)

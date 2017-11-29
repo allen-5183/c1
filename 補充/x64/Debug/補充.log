@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+d:\workspace\c&c++\vs2017\c\補充\stdafx.cpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\補充\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\補充\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  test.c
+  main.c
+d:\workspace\c&c++\vs2017\c\補充\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\補充\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\補充\main.c(80): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  ex8.c
+  ex7.c
+d:\workspace\c&c++\vs2017\c\補充\ex7.c(11): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\補充\ex7.c(13): warning C4098: 'ex7': 'void' 函式正在傳回值
+  ex6.c
+  ex5.c
+d:\workspace\c&c++\vs2017\c\補充\ex5.c(50): warning C4098: 'ex5': 'void' 函式正在傳回值
+  ex4.c
+  ex3.c
+  ex2.c
+  ex1.c
+  正在產生程式碼...
+  補充.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\補充.exe
+  補充.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\補充.pdb (Partial PDB)

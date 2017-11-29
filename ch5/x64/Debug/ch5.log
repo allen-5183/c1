@@ -1,0 +1,15 @@
+﻿  main.c
+d:\workspace\c&c++\vs2017\c\ch5\main.c(70): warning C4013: 'ex5_5' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(82): warning C4013: 'ex7_3c' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(85): warning C4013: 'ex7_3d' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(88): warning C4013: 'ex7_3e' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(91): warning C4013: 'ex5_ex1' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(94): warning C4013: 'ex7_4a' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(97): warning C4013: 'ex7_4b' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(100): warning C4013: 'ex10_1a' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(103): warning C4013: 'ex10_1b' 未定義; 假設 extern 傳回整數
+d:\workspace\c&c++\vs2017\c\ch5\main.c(106): warning C4013: 'ex10_1c' 未定義; 假設 extern 傳回整數
+  ex7_4a.c
+  正在產生程式碼...
+  ch5.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch5.exe
+  ch5.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch5.pdb (Partial PDB)

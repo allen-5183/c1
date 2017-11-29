@@ -1,0 +1,7 @@
+﻿main.obj : error LNK2019: 無法解析的外部符號 ex7_2a 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex7_2b 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex7_2c 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex7_3a 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex7_3b 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex7_3c 在函式 main 中被參考
+D:\workspace\c&c++\vs2017\c\x64\Debug\ch4.exe : fatal error LNK1120: 6 個無法解析的外部符號

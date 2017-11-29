@@ -1,0 +1,42 @@
+﻿  main.c
+  hw9.c
+  hw8.c
+  hw7.c
+  hw6.c
+  hw5.c
+d:\workspace\c&c++\vs2017\c\ch2\hw5.c(13): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  hw4.c
+  hw3.c
+  hw2.c
+d:\workspace\c&c++\vs2017\c\ch2\hw2.c(10): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  hw10.c
+  hw1.c
+  ex2_9.c
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(8): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(8): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 3 的類型為 'float *'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+d:\workspace\c&c++\vs2017\c\ch2\ex2_9.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+  ex2_8.c
+  ex2_7.c
+  ex2_6.c
+  ex2_5.c
+  ex2_4.c
+  ex2_3.c
+  ex2_2.c
+  ex2_11.c
+  正在產生程式碼...
+  正在編譯...
+  ex2_10.c
+  ex2_1.c
+  正在產生程式碼...
+  ch2.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch2.exe
+  ch2.vcxproj -> D:\workspace\c&c++\vs2017\c\x64\Debug\ch2.pdb (Partial PDB)

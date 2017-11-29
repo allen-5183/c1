@@ -1,0 +1,48 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (x64\Release\) 包含從其他專案 (字元與字串庫存函數.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  ex_1a.c
+  ex_1b.c
+  ex_1c.c
+  ex_1d.c
+  ex_2a.c
+  ex_2b.c
+  ex_2c.c
+  ex_2d.c
+  ex_3a.c
+  ex_3b.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_3b.c(12): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_3c.c
+  ex_3d.c
+  ex_3e.c
+  ex_3f.c
+  ex_3g.c
+  ex_3h.c
+  ex_3i.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_3i.c(17): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4a.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4a.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4a.c(12): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  ex_4b.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4b.c(10): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4c.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4c.c(10): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  正在編譯...
+  ex_4d.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4d.c(10): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4e.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4e.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4f.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4f.c(10): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4g.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4g.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4h.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4h.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4i.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4i.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4j.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4j.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4k.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4k.c(11): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+  ex_4L.c
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4L.c(10): warning C4013: 'gets' 未定義; 假設 extern 傳回整數
+..\..\..\..\..\\產學訓\\教學\\補充\\字元與字串庫存函數\\ex_4L.c(15): warning C4477: 'printf' : 格式字串 '%x' 需要 'unsigned int' 類型的引數，但 variadic 引數 1 的類型為 'char *'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(360,5): error MSB6006: "CL.exe" 以返回碼 1 結束。

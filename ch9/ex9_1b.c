@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+ex9_1b()
+{
+	/* 處理 scanf()輸入字元的缺點 */
+	char ch;
+	int i;
+	for (i = 1; i <= 3; i++)                       /* 使用迴圈要求輸入3次字元 */
+	{
+		printf("#%d 的輸入資料為: ", i);
+		scanf("%c", &ch);                          /* 以scanf( )輸入字元 */
+		printf("#%d 的輸出資料為: %c\n\n", i, ch);
+		// 法1
+		while (getchar() != '\n')
+			continue;
+        
+		/*法 2
+		while (getchar() != '\n')
+			;
+        */
+	}
+
+	//system("PAUSE");
+	//return 0;
+}

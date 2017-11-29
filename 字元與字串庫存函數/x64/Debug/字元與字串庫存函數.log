@@ -1,0 +1,25 @@
+﻿  main.c
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(44): warning C4013: 'ex_1c' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(56): warning C4013: 'ex_2b' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(59): warning C4013: 'ex_3a' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(62): warning C4013: 'ex_3b' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(65): warning C4013: 'ex_3_1' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(68): warning C4013: 'ex_4a' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(71): warning C4013: 'ex_4b' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(74): warning C4013: 'ex_4c' 未定義; 假設 extern 傳回整數
+u:\workspace\c&c++\vs2017\c\字元與字串庫存函數\main.c(77): warning C4013: 'ex_4d' 未定義; 假設 extern 傳回整數
+main.obj : error LNK2019: 無法解析的外部符號 ex_1a 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_1b 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_1_1 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_1_2 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_2a 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_1c 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_2b 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_3a 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_3b 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_3_1 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_4a 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_4b 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_4c 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 ex_4d 在函式 main 中被參考
+U:\workspace\c&c++\vs2017\c\x64\Debug\字元與字串庫存函數.exe : fatal error LNK1120: 14 個無法解析的外部符號

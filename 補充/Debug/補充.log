@@ -1,0 +1,6 @@
+﻿  main.c
+d:\workspace\c&c++\vs2017\c\補充\stdafx.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\補充\targetver.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\workspace\c&c++\vs2017\c\補充\main.c(78): warning C4013: 'system' 未定義; 假設 extern 傳回整數
+  補充.vcxproj -> D:\workspace\c&c++\vs2017\c\Debug\補充.exe
+  補充.vcxproj -> D:\workspace\c&c++\vs2017\c\Debug\補充.pdb (Partial PDB)
